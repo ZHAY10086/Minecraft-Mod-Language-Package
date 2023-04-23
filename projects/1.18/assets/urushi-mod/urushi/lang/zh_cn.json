@@ -703,6 +703,7 @@
   "block.urushi.shokujidokoro_long_chochin": "餐馆灯笼",
 <<<<<<< HEAD
   "item.urushi.uchiwa": "团扇"
+<<<<<<< HEAD
 =======
   "item.urushi.uchiwa": "团扇",
   "itemGroup.urushi_magic":"漆MOD丨法术",
@@ -894,4 +895,6 @@
 
 
 >>>>>>> b5564122d71d622183f22fd550998965a60d7380
+=======
+>>>>>>> 8e7c13c0b4faca559b0629bfd0988b6d584b9b38
 }
